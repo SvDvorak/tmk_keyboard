@@ -11,7 +11,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	* |Shift|-------------------| Ent|-----------------------|Shift|
 	* |     |  Z|  X|  C|  V|  B|    |  N|  M|  ,|  .|  /|  \|     |
 	* |------------------------------------------------------------|
-	* |     |Pus|FN0|FN1| Space | DEL| AltGr |PgU|Hom| Up|End|     |
+	* |     |Pus|FN0|FN1| Space | DEL| Space |PgU|Hom| Up|End|     |
 	* | Ctrl|------------------------------------------------| Ctrl|
 	* |     |  Menu | Alt |                  |PgD|Lef|Dow|Rig|     |
 	* `------------------------------------------------------------'
